@@ -133,7 +133,7 @@ typedef uintptr_t l_uintptr_t;
   #define  HAVE_LIBUNGIF      0
   #endif
   #if !defined(HAVE_LIBWEBP)
-  #define  HAVE_LIBWEBP       0
+  #define  HAVE_LIBWEBP       1
   #endif
   #if !defined(HAVE_LIBWEBP_ANIM)
   #define  HAVE_LIBWEBP_ANIM  0
